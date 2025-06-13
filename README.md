@@ -32,7 +32,7 @@
 - 📈 Achieved **94% accuracy**, **89% precision**, **100% recall**
 - 💻 Built a clean user interface using **Streamlit**
 - ✅ Real-time medical diagnosis tool for early cancer detection  
-[🔗 GitHub Repo](https://github.com/Pruthvi-Telluri) *(Add exact link to project repo)*
+[🔗 GitHub Repo](https://github.com/Pruthvi-Telluri/Bone-Cancer-Detection-and-Classification-using-Deep-Learning)
 
 ---
 
