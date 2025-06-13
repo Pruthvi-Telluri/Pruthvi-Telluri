@@ -24,6 +24,14 @@
 
 ---
 
+## 📚 Courses & Certifications
+
+- **Complete Machine Learning & NLP Bootcamp – MLOps Deployment**  
+  _Udemy | In Progress_  
+  Topics covered: Machine Learning algorithms, Natural Language Processing, Scikit-learn, TensorFlow, Streamlit, MLOps, and model deployment to production environments.
+
+---
+
 ## 🧪 Projects
 
 ### 🔬 Bone Cancer Detection and Classification (Deep Learning)
